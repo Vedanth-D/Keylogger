@@ -48,7 +48,7 @@ This is for png files inside we can store the message so that no one knows what 
 
 
 
-                                                                             THANK YOU !
+                                                    THANK YOU !
 
 
 
